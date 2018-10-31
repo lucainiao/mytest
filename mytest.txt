@@ -1,0 +1,4 @@
+public class Mytext{
+	public Interger id;
+	public String name;
+}
